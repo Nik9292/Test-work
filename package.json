@@ -1,7 +1,7 @@
 {
-  "name": "webpack-lesson",
+  "name": "test-work",
   "version": "1.0.0",
-  "description": "simple webpack",
+  "description": "test work",
   "main": "index.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --mode production",
